@@ -5,7 +5,7 @@ Computer Science Engineering 💻
 -------------------------
 
 * 🌍  I'm based in Tenerife, Canary Islands (Spain).
-* ✉️  You can contact me at [sergiodlbg@gmail.com](mailto:sergiodlbg@gmail.com) or my socials media
+* ✉️  You can contact me via my socials media or at [sergiodlbg@gmail.com](mailto:sergiodlbg@gmail.com) 
 * 🧠  I'm performing my skills everyday.
 * 🤝  I'm open to collaborating on interesting projects as a developer.
 
@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/CorEHarD5?logo=github&style=for-the
 
 <br>
 
-### Socials
+### Social Media
                   
 <p align="left"> 
   <a href="https://www.github.com/CorEHarD5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
