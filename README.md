@@ -1,7 +1,7 @@
 Hi 👋 my name is Sergio de la Barrera García
 ==========================
 
-Computer Science Engineering
+Computer Science Engineering 💻
 -------------------------
 
 * 🌍  I'm based in Tenerife, Canary Islands (Spain).
