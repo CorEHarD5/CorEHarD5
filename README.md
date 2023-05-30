@@ -27,6 +27,7 @@ src="https://img.shields.io/github/followers/CorEHarD5?logo=github&style=for-the
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Java" /></a>
+  <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="Java" /></a>
 </p>
 
 <br>
