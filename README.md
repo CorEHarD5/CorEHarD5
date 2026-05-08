@@ -39,9 +39,3 @@ src="https://img.shields.io/github/followers/CorEHarD5?logo=github&style=for-the
 </p>
 
 <br>
-
-### Github Stats
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorEHarD5&show_icons=true&theme=dark)
